@@ -17,11 +17,6 @@ I'm a student at Drexel university studying Game Design and Production. Currentl
   - Cyberpunk 2077
 - Exploring Cybersecurity
 
-## Contact Information
-- Personal Email: [haardsanghvi.h@gmail.com](mailto:haardsanghvi.h@gmail.com)
-- School Email: [hh39@drexel.edu](mailto:hh39@drexel.edu)
-- LinkedIn: [Haard Sanghvi](https://www.linkedin.com/in/haard-sanghvi-8938a0261/)
-
 ## Fun Facts
 - I play the drums and if it isn't evident I enjoy playing games. I also loves cars and the mechanical aspect of them.
 
