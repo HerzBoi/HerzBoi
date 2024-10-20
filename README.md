@@ -8,7 +8,7 @@ I'm a student at Drexel university studying Game Design and Production. Currentl
 - Operating Systems: Daily drives Linux user with a certification from the Linux Foundation
 
 ## Current Projects
-- **Game Engine**: Developing a game engine for a small 3D game I'm planning to make.
+- Just working on improving my skills and focus on university
 
 ## Learning Goals
 - Modding for games like:
