@@ -1,6 +1,6 @@
-# Hi there! I'm Haard Sanghvi
+# My name is Haard Sanghvi
 
-I'm a student with a passion for programming and game development. Currently, I'm working on a game engine in C++ for a small 3D game I'm planning to create. 
+I'm a student at Drexel university studying Game Design and Production. Currently, I'm working on a game engine in C++ for a small 3D game I'm planning to create. 
 
 ## Skills
 - Programming Languages: C++, Python, Java
