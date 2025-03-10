@@ -15,7 +15,7 @@ I'm a student at Drexel university studying Game Design and Production.
   - Minecraft
   - Skyrim
   - Cyberpunk 2077
-- 3D rednering and game engines
+- 3D rendering and game engines
 
 ## Fun Facts
 - I play the drums and if it isn't evident I enjoy playing games. I also loves cars and the mechanical aspect of them.
