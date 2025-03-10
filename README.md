@@ -3,7 +3,7 @@
 I'm a student at Drexel university studying Game Design and Production.
 
 ## Skills
-- Programming Languages: C++, Python, Java
+- Programming Languages: C++, Python, Java, HTML, CSS, C#
 - Game Engines: Unity and Godot
 - Operating Systems: Daily drives Linux user with a certification from the Linux Foundation
 
@@ -15,7 +15,7 @@ I'm a student at Drexel university studying Game Design and Production.
   - Minecraft
   - Skyrim
   - Cyberpunk 2077
-- Exploring Cybersecurity
+- 3D rednering and game engines
 
 ## Fun Facts
 - I play the drums and if it isn't evident I enjoy playing games. I also loves cars and the mechanical aspect of them.
